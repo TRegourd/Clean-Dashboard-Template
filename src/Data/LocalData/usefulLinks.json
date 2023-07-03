@@ -1,0 +1,16 @@
+[
+	{
+		"title": "Lien Utile 1",
+		"description": "Ceci est un lien utile :",
+		"infos": ["Info 1", "Info 2"],
+		"link": "https://google.com",
+		"badges": ["Tag 1", "Tag 2"]
+	},
+	{
+		"title": "Lien Utile 2",
+		"description": "Ceci est un lien utile :",
+		"infos": ["Info 1", "Info 2"],
+		"link": "https://google.com",
+		"badges": ["Tag 1", "Tag 2"]
+	}
+]

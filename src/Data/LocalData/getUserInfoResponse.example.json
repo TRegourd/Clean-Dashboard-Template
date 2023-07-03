@@ -1,0 +1,9 @@
+{
+	"user": {
+		"email": "john@example.com",
+		"username": "jonDoe",
+		"role": "admin",
+		"lastLogin": "2023-05-21"
+	},
+	"token": "authToken"
+}
