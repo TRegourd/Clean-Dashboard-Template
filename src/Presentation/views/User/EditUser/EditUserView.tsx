@@ -72,7 +72,7 @@ export default function EditUserView({ name }: RouteParams) {
 					label={
 						<span>
 							<i className='fa-solid fa-user fa-xl pr-2' />
-							Identifiant Pôle Emploi
+							Identifiant
 						</span>
 					}
 					disabled
